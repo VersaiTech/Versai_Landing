@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Function to show alert and then redirect
         function showAlertAndRedirect(message) {
             alert(message);
-            window.location.href = 'https://versai.tech/'; // Replace 'yourwebsite.com' with your homepage URL
+            window.location.href = 'https://versai.tech/';
         }
     </script>
 </head>
