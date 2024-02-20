@@ -919,6 +919,15 @@ a.play-video::after {
     margin: 0 0 15px;
     display: block;
 }
+
+/* row container  */
+.rowcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .quote {
     font-weight: 500;
     padding: 25px;
